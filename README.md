@@ -1,5 +1,5 @@
-# duzhongzhiwang
-数独软件
+# 独中之王
+关于数独软件
 ## 关于软件
 [查看](https://github.com/yujingwyh/duzhongzhiwang/blob/master/关于软件.txt)
 ## 使用说明
