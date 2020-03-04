@@ -1,6 +1,8 @@
 # 独中之王
 关于数独软件
 
+![eleme.gif](./introduce/screen.png)
+
 ## 关于软件
 [查看](https://github.com/yujingwyh/duzhongzhiwang/blob/master/introduce/关于软件.txt)
 
